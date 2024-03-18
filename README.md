@@ -8,6 +8,7 @@
 
 ## 项目启动
 ```shell
+git clone https://github.com/MJ-young/vue-vite-less-ts.git
 npm install
 npm run dev
 ```
